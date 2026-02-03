@@ -17,7 +17,7 @@ Ce programme couvre les pré-requis essentiels pour les modules **STI** (Science
 
 ### 📐 1. Mathématiques pour l'Ingénieur (Analyse & Algèbre)
 *L'objectif est de maîtriser les outils mathématiques nécessaires au Traitement du Signal et à l'IA.*
-- [ ] **Fonctions Usuelles :** Logarithme, Exponentielle (Visualisation de croissance).
+- [x] **Fonctions Usuelles :** Logarithme, Exponentielle (Visualisation de croissance).
 - [ ] **Trigonométrie :** Cercle trigonométrique, Sinusoïdes, Phase/Fréquence.
 - [ ] **Calcul Différentiel :** Dérivées (Vitesse de variation) et Intégration (Calcul d'aires/énergie).
 - [ ] **Nombres Complexes :** Forme algébrique et exponentielle (Préparation à l'analyse fréquentielle).
